@@ -60,7 +60,19 @@ int yariCap = Convert.ToInt32(Console.ReadLine());
 // Ancak c# da PI değerini veren bir fonksiyon var.
 double result = Math.PI*yariCap*yariCap;
 Console.WriteLine("Dairenin Alanı : {0 }",result);
+
+
 #endregion
 
 
-//
+// Matematiksel işlemler için :
+
+
+// Bir sayısının üssünü hesaplamak için Math sınıfından faydalanıyoruz.
+Math.Pow(10,3);
+// Sonuç : 1000 
+
+// Ödev : 
+// Math sınıfına ait fonksiyonları inceleyin, 
+// Tüm fonksiyonlar için ufak örnek yapınız
+
