@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/Tip_Donusumleri/bin/Debug/net8.0/Tip_Donusumleri
+/Users/emrahelis/Desktop/Tip_Donusumleri/bin/Debug/net8.0/Tip_Donusumleri.deps.json
+/Users/emrahelis/Desktop/Tip_Donusumleri/bin/Debug/net8.0/Tip_Donusumleri.runtimeconfig.json
+/Users/emrahelis/Desktop/Tip_Donusumleri/bin/Debug/net8.0/Tip_Donusumleri.dll
+/Users/emrahelis/Desktop/Tip_Donusumleri/bin/Debug/net8.0/Tip_Donusumleri.pdb
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.AssemblyInfo.cs
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.dll
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/refint/Tip_Donusumleri.dll
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.pdb
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/Tip_Donusumleri.genruntimeconfig.cache
+/Users/emrahelis/Desktop/Tip_Donusumleri/obj/Debug/net8.0/ref/Tip_Donusumleri.dll
